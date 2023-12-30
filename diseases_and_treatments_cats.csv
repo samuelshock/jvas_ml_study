@@ -1,0 +1,1001 @@
+,ID_Gato,Raza,Edad,Enfermedad,Tratamiento,Resultado
+0,1,Ragdoll,12,Infección urinaria,Medicación tiroidea,Mejora
+1,2,Persa,11,Diabetes,Antibióticos,Mejora
+2,3,Persa,14,Enfermedad renal,Terapia de fluidos,Sin Cambio
+3,4,Ragdoll,1,Alergias,Medicación tiroidea,Mejora
+4,5,Persa,1,Enfermedad renal,Insulina,Sin Cambio
+5,6,Persa,10,Infección urinaria,Antibióticos,Deterioro
+6,7,Siamés,8,Enfermedad renal,Insulina,Mejora
+7,8,British Shorthair,5,Hipertiroidismo,Medicación tiroidea,Deterioro
+8,9,Bengalí,14,Infección urinaria,Medicación tiroidea,Sin Cambio
+9,10,Bengalí,9,Hipertiroidismo,Antihistamínicos,Mejora
+10,11,Siamés,1,Hipertiroidismo,Medicación tiroidea,Mejora
+11,12,Bengalí,13,Alergias,Medicación tiroidea,Mejora
+12,13,British Shorthair,2,Hipertiroidismo,Medicación tiroidea,Mejora
+13,14,Siamés,8,Infección urinaria,Terapia de fluidos,Deterioro
+14,15,Persa,2,Infección urinaria,Medicación tiroidea,Deterioro
+15,16,Persa,11,Hipertiroidismo,Terapia de fluidos,Deterioro
+16,17,British Shorthair,2,Alergias,Antibióticos,Deterioro
+17,18,Bengalí,11,Hipertiroidismo,Terapia de fluidos,Mejora
+18,19,British Shorthair,12,Enfermedad renal,Terapia de fluidos,Sin Cambio
+19,20,Ragdoll,8,Diabetes,Antihistamínicos,Sin Cambio
+20,21,Ragdoll,15,Enfermedad renal,Antihistamínicos,Sin Cambio
+21,22,British Shorthair,3,Infección urinaria,Antibióticos,Mejora
+22,23,British Shorthair,11,Enfermedad renal,Terapia de fluidos,Mejora
+23,24,Siamés,9,Hipertiroidismo,Insulina,Mejora
+24,25,Siamés,6,Infección urinaria,Insulina,Mejora
+25,26,Ragdoll,5,Hipertiroidismo,Antihistamínicos,Mejora
+26,27,Bengalí,3,Enfermedad renal,Antibióticos,Mejora
+27,28,British Shorthair,4,Diabetes,Antihistamínicos,Sin Cambio
+28,29,Persa,5,Enfermedad renal,Antibióticos,Sin Cambio
+29,30,Bengalí,10,Alergias,Antibióticos,Mejora
+30,31,Ragdoll,15,Alergias,Insulina,Sin Cambio
+31,32,British Shorthair,9,Diabetes,Antibióticos,Deterioro
+32,33,British Shorthair,11,Hipertiroidismo,Antibióticos,Mejora
+33,34,Ragdoll,8,Alergias,Medicación tiroidea,Mejora
+34,35,Siamés,2,Diabetes,Insulina,Deterioro
+35,36,Bengalí,10,Hipertiroidismo,Terapia de fluidos,Deterioro
+36,37,British Shorthair,9,Hipertiroidismo,Medicación tiroidea,Deterioro
+37,38,Persa,15,Alergias,Terapia de fluidos,Mejora
+38,39,Ragdoll,5,Alergias,Terapia de fluidos,Mejora
+39,40,British Shorthair,12,Enfermedad renal,Antihistamínicos,Mejora
+40,41,Ragdoll,11,Enfermedad renal,Terapia de fluidos,Deterioro
+41,42,Persa,8,Diabetes,Medicación tiroidea,Mejora
+42,43,Bengalí,8,Alergias,Insulina,Mejora
+43,44,Ragdoll,7,Enfermedad renal,Insulina,Mejora
+44,45,Ragdoll,4,Enfermedad renal,Medicación tiroidea,Mejora
+45,46,Persa,3,Infección urinaria,Antibióticos,Sin Cambio
+46,47,Persa,6,Enfermedad renal,Antibióticos,Mejora
+47,48,Bengalí,4,Enfermedad renal,Antihistamínicos,Mejora
+48,49,British Shorthair,13,Alergias,Medicación tiroidea,Sin Cambio
+49,50,Siamés,12,Infección urinaria,Terapia de fluidos,Mejora
+50,51,British Shorthair,4,Alergias,Terapia de fluidos,Sin Cambio
+51,52,Siamés,5,Hipertiroidismo,Insulina,Mejora
+52,53,Siamés,1,Diabetes,Terapia de fluidos,Mejora
+53,54,Bengalí,13,Alergias,Antihistamínicos,Sin Cambio
+54,55,British Shorthair,12,Infección urinaria,Medicación tiroidea,Sin Cambio
+55,56,Persa,6,Hipertiroidismo,Terapia de fluidos,Sin Cambio
+56,57,British Shorthair,11,Alergias,Antibióticos,Mejora
+57,58,Bengalí,3,Enfermedad renal,Antihistamínicos,Deterioro
+58,59,Ragdoll,12,Infección urinaria,Medicación tiroidea,Sin Cambio
+59,60,Ragdoll,2,Alergias,Antihistamínicos,Sin Cambio
+60,61,Ragdoll,9,Enfermedad renal,Medicación tiroidea,Sin Cambio
+61,62,British Shorthair,15,Hipertiroidismo,Insulina,Mejora
+62,63,Siamés,7,Infección urinaria,Insulina,Mejora
+63,64,Persa,6,Enfermedad renal,Medicación tiroidea,Sin Cambio
+64,65,British Shorthair,1,Diabetes,Insulina,Deterioro
+65,66,Persa,15,Diabetes,Terapia de fluidos,Mejora
+66,67,Persa,12,Diabetes,Terapia de fluidos,Deterioro
+67,68,British Shorthair,9,Infección urinaria,Medicación tiroidea,Mejora
+68,69,Ragdoll,15,Enfermedad renal,Antibióticos,Mejora
+69,70,Persa,9,Alergias,Insulina,Mejora
+70,71,Ragdoll,12,Alergias,Medicación tiroidea,Mejora
+71,72,Bengalí,8,Enfermedad renal,Medicación tiroidea,Mejora
+72,73,Ragdoll,14,Alergias,Antibióticos,Sin Cambio
+73,74,Siamés,2,Diabetes,Medicación tiroidea,Sin Cambio
+74,75,Persa,7,Enfermedad renal,Terapia de fluidos,Mejora
+75,76,British Shorthair,10,Infección urinaria,Insulina,Mejora
+76,77,Bengalí,6,Infección urinaria,Antibióticos,Mejora
+77,78,Ragdoll,15,Diabetes,Antihistamínicos,Mejora
+78,79,Ragdoll,5,Infección urinaria,Insulina,Mejora
+79,80,British Shorthair,11,Enfermedad renal,Terapia de fluidos,Deterioro
+80,81,Bengalí,1,Hipertiroidismo,Antibióticos,Mejora
+81,82,Bengalí,4,Diabetes,Terapia de fluidos,Mejora
+82,83,British Shorthair,4,Alergias,Antibióticos,Sin Cambio
+83,84,British Shorthair,10,Hipertiroidismo,Insulina,Mejora
+84,85,British Shorthair,6,Hipertiroidismo,Terapia de fluidos,Mejora
+85,86,Bengalí,6,Hipertiroidismo,Insulina,Mejora
+86,87,Ragdoll,8,Alergias,Antibióticos,Mejora
+87,88,Persa,12,Hipertiroidismo,Insulina,Mejora
+88,89,Persa,8,Infección urinaria,Insulina,Sin Cambio
+89,90,Persa,4,Alergias,Insulina,Mejora
+90,91,British Shorthair,14,Infección urinaria,Medicación tiroidea,Deterioro
+91,92,Ragdoll,15,Enfermedad renal,Antibióticos,Mejora
+92,93,Siamés,6,Hipertiroidismo,Medicación tiroidea,Mejora
+93,94,British Shorthair,6,Infección urinaria,Medicación tiroidea,Mejora
+94,95,Bengalí,2,Infección urinaria,Antibióticos,Sin Cambio
+95,96,Ragdoll,12,Infección urinaria,Antihistamínicos,Sin Cambio
+96,97,Siamés,2,Enfermedad renal,Terapia de fluidos,Mejora
+97,98,Bengalí,7,Infección urinaria,Terapia de fluidos,Mejora
+98,99,British Shorthair,8,Infección urinaria,Antibióticos,Mejora
+99,100,Bengalí,3,Hipertiroidismo,Antihistamínicos,Mejora
+100,101,British Shorthair,12,Hipertiroidismo,Insulina,Sin Cambio
+101,102,Bengalí,3,Diabetes,Antibióticos,Sin Cambio
+102,103,Siamés,15,Diabetes,Antihistamínicos,Sin Cambio
+103,104,Persa,9,Alergias,Insulina,Sin Cambio
+104,105,Bengalí,9,Enfermedad renal,Antihistamínicos,Mejora
+105,106,Ragdoll,6,Alergias,Insulina,Deterioro
+106,107,Siamés,14,Infección urinaria,Antibióticos,Deterioro
+107,108,Persa,11,Alergias,Antihistamínicos,Mejora
+108,109,Siamés,11,Enfermedad renal,Antihistamínicos,Mejora
+109,110,British Shorthair,3,Diabetes,Antihistamínicos,Mejora
+110,111,British Shorthair,13,Hipertiroidismo,Terapia de fluidos,Mejora
+111,112,Ragdoll,10,Hipertiroidismo,Insulina,Deterioro
+112,113,Persa,12,Infección urinaria,Medicación tiroidea,Sin Cambio
+113,114,Ragdoll,9,Alergias,Medicación tiroidea,Sin Cambio
+114,115,British Shorthair,7,Alergias,Insulina,Mejora
+115,116,Persa,9,Diabetes,Insulina,Mejora
+116,117,Persa,8,Infección urinaria,Antihistamínicos,Mejora
+117,118,British Shorthair,9,Alergias,Medicación tiroidea,Sin Cambio
+118,119,Bengalí,15,Alergias,Antihistamínicos,Sin Cambio
+119,120,Ragdoll,3,Enfermedad renal,Medicación tiroidea,Mejora
+120,121,Persa,2,Alergias,Insulina,Sin Cambio
+121,122,British Shorthair,15,Diabetes,Antihistamínicos,Mejora
+122,123,Bengalí,10,Infección urinaria,Terapia de fluidos,Sin Cambio
+123,124,Siamés,12,Enfermedad renal,Insulina,Sin Cambio
+124,125,Siamés,1,Diabetes,Medicación tiroidea,Mejora
+125,126,Siamés,15,Enfermedad renal,Medicación tiroidea,Mejora
+126,127,Ragdoll,9,Diabetes,Medicación tiroidea,Mejora
+127,128,Bengalí,15,Hipertiroidismo,Medicación tiroidea,Mejora
+128,129,Siamés,13,Diabetes,Medicación tiroidea,Mejora
+129,130,Ragdoll,11,Hipertiroidismo,Antibióticos,Mejora
+130,131,British Shorthair,8,Hipertiroidismo,Antibióticos,Deterioro
+131,132,British Shorthair,2,Enfermedad renal,Antibióticos,Deterioro
+132,133,Persa,11,Hipertiroidismo,Antibióticos,Deterioro
+133,134,Siamés,9,Diabetes,Medicación tiroidea,Mejora
+134,135,Siamés,1,Enfermedad renal,Antihistamínicos,Sin Cambio
+135,136,Ragdoll,4,Diabetes,Antihistamínicos,Sin Cambio
+136,137,Persa,4,Hipertiroidismo,Antibióticos,Mejora
+137,138,Siamés,15,Alergias,Medicación tiroidea,Sin Cambio
+138,139,Ragdoll,11,Enfermedad renal,Antibióticos,Sin Cambio
+139,140,Ragdoll,11,Diabetes,Insulina,Mejora
+140,141,Persa,10,Enfermedad renal,Insulina,Deterioro
+141,142,Ragdoll,5,Alergias,Medicación tiroidea,Sin Cambio
+142,143,British Shorthair,10,Enfermedad renal,Antibióticos,Deterioro
+143,144,Siamés,1,Enfermedad renal,Antibióticos,Mejora
+144,145,Ragdoll,6,Hipertiroidismo,Terapia de fluidos,Mejora
+145,146,Bengalí,15,Alergias,Antihistamínicos,Mejora
+146,147,Siamés,1,Infección urinaria,Insulina,Mejora
+147,148,Siamés,11,Diabetes,Antihistamínicos,Mejora
+148,149,Ragdoll,2,Infección urinaria,Antibióticos,Mejora
+149,150,Ragdoll,2,Infección urinaria,Antihistamínicos,Sin Cambio
+150,151,British Shorthair,5,Enfermedad renal,Antibióticos,Deterioro
+151,152,Ragdoll,4,Hipertiroidismo,Antihistamínicos,Mejora
+152,153,Siamés,9,Alergias,Medicación tiroidea,Mejora
+153,154,Persa,5,Enfermedad renal,Antihistamínicos,Sin Cambio
+154,155,British Shorthair,14,Hipertiroidismo,Antibióticos,Mejora
+155,156,Persa,8,Alergias,Insulina,Mejora
+156,157,Ragdoll,2,Infección urinaria,Medicación tiroidea,Deterioro
+157,158,Persa,1,Diabetes,Terapia de fluidos,Mejora
+158,159,Siamés,15,Diabetes,Antibióticos,Mejora
+159,160,Ragdoll,3,Infección urinaria,Antibióticos,Sin Cambio
+160,161,British Shorthair,15,Diabetes,Medicación tiroidea,Deterioro
+161,162,Ragdoll,10,Hipertiroidismo,Insulina,Deterioro
+162,163,British Shorthair,9,Enfermedad renal,Antihistamínicos,Mejora
+163,164,Siamés,7,Alergias,Terapia de fluidos,Mejora
+164,165,Persa,11,Enfermedad renal,Insulina,Sin Cambio
+165,166,Bengalí,12,Hipertiroidismo,Terapia de fluidos,Mejora
+166,167,Siamés,10,Hipertiroidismo,Antihistamínicos,Mejora
+167,168,Persa,5,Alergias,Insulina,Deterioro
+168,169,Siamés,3,Infección urinaria,Terapia de fluidos,Sin Cambio
+169,170,Persa,5,Enfermedad renal,Antihistamínicos,Deterioro
+170,171,Ragdoll,9,Alergias,Medicación tiroidea,Mejora
+171,172,Siamés,7,Diabetes,Insulina,Mejora
+172,173,British Shorthair,15,Alergias,Terapia de fluidos,Mejora
+173,174,British Shorthair,12,Diabetes,Antihistamínicos,Sin Cambio
+174,175,Persa,10,Enfermedad renal,Terapia de fluidos,Deterioro
+175,176,Ragdoll,14,Diabetes,Antihistamínicos,Deterioro
+176,177,Ragdoll,8,Alergias,Terapia de fluidos,Mejora
+177,178,Bengalí,9,Enfermedad renal,Terapia de fluidos,Deterioro
+178,179,Siamés,3,Infección urinaria,Antihistamínicos,Sin Cambio
+179,180,Siamés,15,Alergias,Terapia de fluidos,Mejora
+180,181,Bengalí,8,Hipertiroidismo,Terapia de fluidos,Deterioro
+181,182,Persa,6,Enfermedad renal,Medicación tiroidea,Deterioro
+182,183,Siamés,6,Hipertiroidismo,Medicación tiroidea,Sin Cambio
+183,184,Persa,13,Enfermedad renal,Insulina,Sin Cambio
+184,185,British Shorthair,5,Infección urinaria,Medicación tiroidea,Sin Cambio
+185,186,Persa,11,Alergias,Insulina,Mejora
+186,187,British Shorthair,6,Diabetes,Antihistamínicos,Mejora
+187,188,British Shorthair,9,Hipertiroidismo,Antibióticos,Sin Cambio
+188,189,Siamés,2,Enfermedad renal,Terapia de fluidos,Mejora
+189,190,Siamés,3,Enfermedad renal,Antibióticos,Mejora
+190,191,Bengalí,8,Hipertiroidismo,Antibióticos,Mejora
+191,192,Ragdoll,5,Alergias,Antihistamínicos,Sin Cambio
+192,193,Bengalí,11,Infección urinaria,Antihistamínicos,Sin Cambio
+193,194,Persa,2,Enfermedad renal,Antibióticos,Sin Cambio
+194,195,British Shorthair,3,Enfermedad renal,Antihistamínicos,Mejora
+195,196,Bengalí,2,Alergias,Antibióticos,Sin Cambio
+196,197,Ragdoll,1,Alergias,Terapia de fluidos,Mejora
+197,198,Ragdoll,3,Infección urinaria,Insulina,Mejora
+198,199,Bengalí,12,Infección urinaria,Antihistamínicos,Sin Cambio
+199,200,Siamés,8,Hipertiroidismo,Antibióticos,Sin Cambio
+200,201,Persa,13,Diabetes,Medicación tiroidea,Sin Cambio
+201,202,Ragdoll,9,Alergias,Insulina,Deterioro
+202,203,Ragdoll,12,Alergias,Medicación tiroidea,Sin Cambio
+203,204,Bengalí,13,Diabetes,Medicación tiroidea,Mejora
+204,205,Siamés,5,Hipertiroidismo,Antibióticos,Sin Cambio
+205,206,Persa,12,Alergias,Antihistamínicos,Deterioro
+206,207,Ragdoll,5,Enfermedad renal,Antibióticos,Mejora
+207,208,Ragdoll,1,Hipertiroidismo,Antibióticos,Sin Cambio
+208,209,Ragdoll,14,Infección urinaria,Insulina,Deterioro
+209,210,British Shorthair,7,Hipertiroidismo,Medicación tiroidea,Sin Cambio
+210,211,Ragdoll,11,Alergias,Insulina,Deterioro
+211,212,Siamés,14,Infección urinaria,Medicación tiroidea,Deterioro
+212,213,British Shorthair,4,Hipertiroidismo,Medicación tiroidea,Sin Cambio
+213,214,Siamés,2,Diabetes,Insulina,Sin Cambio
+214,215,British Shorthair,13,Hipertiroidismo,Antihistamínicos,Mejora
+215,216,British Shorthair,2,Infección urinaria,Antihistamínicos,Sin Cambio
+216,217,Persa,1,Hipertiroidismo,Antihistamínicos,Mejora
+217,218,Bengalí,11,Enfermedad renal,Medicación tiroidea,Mejora
+218,219,Ragdoll,1,Alergias,Medicación tiroidea,Mejora
+219,220,Persa,11,Alergias,Terapia de fluidos,Deterioro
+220,221,Siamés,2,Hipertiroidismo,Antihistamínicos,Mejora
+221,222,Bengalí,15,Diabetes,Insulina,Sin Cambio
+222,223,Siamés,10,Diabetes,Antihistamínicos,Mejora
+223,224,Persa,8,Enfermedad renal,Insulina,Mejora
+224,225,Persa,11,Diabetes,Antibióticos,Mejora
+225,226,Siamés,13,Enfermedad renal,Insulina,Mejora
+226,227,British Shorthair,4,Infección urinaria,Terapia de fluidos,Mejora
+227,228,Siamés,15,Diabetes,Antibióticos,Mejora
+228,229,British Shorthair,6,Enfermedad renal,Medicación tiroidea,Deterioro
+229,230,Persa,13,Enfermedad renal,Antihistamínicos,Mejora
+230,231,Ragdoll,9,Enfermedad renal,Medicación tiroidea,Mejora
+231,232,Bengalí,11,Alergias,Insulina,Mejora
+232,233,British Shorthair,3,Enfermedad renal,Antibióticos,Deterioro
+233,234,British Shorthair,8,Enfermedad renal,Antibióticos,Mejora
+234,235,Ragdoll,7,Enfermedad renal,Terapia de fluidos,Deterioro
+235,236,Siamés,9,Hipertiroidismo,Antibióticos,Deterioro
+236,237,Persa,11,Alergias,Antihistamínicos,Mejora
+237,238,British Shorthair,12,Infección urinaria,Insulina,Mejora
+238,239,Ragdoll,4,Alergias,Antihistamínicos,Sin Cambio
+239,240,Ragdoll,1,Alergias,Antihistamínicos,Mejora
+240,241,Persa,6,Infección urinaria,Terapia de fluidos,Sin Cambio
+241,242,Bengalí,10,Diabetes,Insulina,Mejora
+242,243,Ragdoll,4,Alergias,Insulina,Mejora
+243,244,British Shorthair,11,Hipertiroidismo,Insulina,Sin Cambio
+244,245,Ragdoll,10,Diabetes,Medicación tiroidea,Mejora
+245,246,Ragdoll,4,Hipertiroidismo,Antibióticos,Sin Cambio
+246,247,Ragdoll,12,Hipertiroidismo,Terapia de fluidos,Mejora
+247,248,British Shorthair,14,Enfermedad renal,Antibióticos,Deterioro
+248,249,British Shorthair,5,Enfermedad renal,Medicación tiroidea,Sin Cambio
+249,250,Ragdoll,13,Diabetes,Antibióticos,Mejora
+250,251,Bengalí,15,Hipertiroidismo,Terapia de fluidos,Sin Cambio
+251,252,British Shorthair,15,Alergias,Insulina,Deterioro
+252,253,Siamés,6,Hipertiroidismo,Terapia de fluidos,Mejora
+253,254,British Shorthair,5,Infección urinaria,Terapia de fluidos,Sin Cambio
+254,255,Bengalí,1,Enfermedad renal,Terapia de fluidos,Deterioro
+255,256,British Shorthair,1,Alergias,Insulina,Sin Cambio
+256,257,Siamés,13,Hipertiroidismo,Antibióticos,Mejora
+257,258,Persa,5,Infección urinaria,Medicación tiroidea,Mejora
+258,259,British Shorthair,7,Diabetes,Antibióticos,Deterioro
+259,260,Persa,7,Enfermedad renal,Terapia de fluidos,Sin Cambio
+260,261,Siamés,7,Diabetes,Antihistamínicos,Mejora
+261,262,Ragdoll,10,Diabetes,Antihistamínicos,Sin Cambio
+262,263,Siamés,4,Hipertiroidismo,Antibióticos,Mejora
+263,264,British Shorthair,12,Alergias,Antihistamínicos,Sin Cambio
+264,265,Siamés,14,Enfermedad renal,Terapia de fluidos,Sin Cambio
+265,266,Persa,6,Enfermedad renal,Antihistamínicos,Sin Cambio
+266,267,British Shorthair,7,Diabetes,Terapia de fluidos,Deterioro
+267,268,Siamés,8,Alergias,Antihistamínicos,Sin Cambio
+268,269,Bengalí,10,Hipertiroidismo,Insulina,Sin Cambio
+269,270,British Shorthair,6,Enfermedad renal,Terapia de fluidos,Deterioro
+270,271,Siamés,8,Diabetes,Antibióticos,Mejora
+271,272,Siamés,15,Alergias,Medicación tiroidea,Mejora
+272,273,Siamés,2,Diabetes,Antihistamínicos,Deterioro
+273,274,Persa,14,Hipertiroidismo,Antihistamínicos,Deterioro
+274,275,Ragdoll,15,Alergias,Terapia de fluidos,Mejora
+275,276,Persa,14,Alergias,Insulina,Deterioro
+276,277,Siamés,15,Infección urinaria,Insulina,Deterioro
+277,278,Siamés,14,Alergias,Insulina,Mejora
+278,279,Ragdoll,13,Infección urinaria,Insulina,Deterioro
+279,280,Persa,5,Infección urinaria,Medicación tiroidea,Mejora
+280,281,Ragdoll,7,Hipertiroidismo,Antihistamínicos,Mejora
+281,282,Persa,13,Alergias,Terapia de fluidos,Mejora
+282,283,Bengalí,7,Hipertiroidismo,Insulina,Mejora
+283,284,Siamés,14,Diabetes,Terapia de fluidos,Mejora
+284,285,Persa,7,Diabetes,Antibióticos,Mejora
+285,286,Siamés,9,Infección urinaria,Medicación tiroidea,Sin Cambio
+286,287,Bengalí,9,Hipertiroidismo,Insulina,Deterioro
+287,288,British Shorthair,3,Diabetes,Antibióticos,Mejora
+288,289,Bengalí,10,Infección urinaria,Antihistamínicos,Mejora
+289,290,Bengalí,11,Enfermedad renal,Insulina,Mejora
+290,291,British Shorthair,15,Alergias,Insulina,Mejora
+291,292,Siamés,12,Diabetes,Insulina,Sin Cambio
+292,293,Siamés,11,Infección urinaria,Antibióticos,Mejora
+293,294,British Shorthair,12,Diabetes,Antibióticos,Sin Cambio
+294,295,Persa,10,Hipertiroidismo,Antihistamínicos,Sin Cambio
+295,296,Siamés,12,Hipertiroidismo,Insulina,Sin Cambio
+296,297,Siamés,15,Alergias,Insulina,Sin Cambio
+297,298,British Shorthair,11,Hipertiroidismo,Antihistamínicos,Mejora
+298,299,British Shorthair,8,Hipertiroidismo,Medicación tiroidea,Deterioro
+299,300,Bengalí,2,Diabetes,Medicación tiroidea,Mejora
+300,301,Persa,15,Enfermedad renal,Antihistamínicos,Mejora
+301,302,Siamés,9,Hipertiroidismo,Insulina,Mejora
+302,303,Siamés,1,Hipertiroidismo,Antihistamínicos,Deterioro
+303,304,Ragdoll,14,Enfermedad renal,Insulina,Mejora
+304,305,Persa,8,Enfermedad renal,Antihistamínicos,Mejora
+305,306,Ragdoll,14,Alergias,Terapia de fluidos,Mejora
+306,307,Persa,11,Hipertiroidismo,Antibióticos,Sin Cambio
+307,308,Ragdoll,5,Hipertiroidismo,Antihistamínicos,Mejora
+308,309,Bengalí,11,Diabetes,Medicación tiroidea,Sin Cambio
+309,310,Ragdoll,15,Enfermedad renal,Terapia de fluidos,Mejora
+310,311,Siamés,12,Diabetes,Insulina,Mejora
+311,312,British Shorthair,6,Enfermedad renal,Antibióticos,Mejora
+312,313,Bengalí,3,Diabetes,Insulina,Mejora
+313,314,Siamés,14,Enfermedad renal,Medicación tiroidea,Sin Cambio
+314,315,British Shorthair,8,Diabetes,Medicación tiroidea,Sin Cambio
+315,316,Ragdoll,10,Alergias,Antibióticos,Mejora
+316,317,British Shorthair,7,Infección urinaria,Medicación tiroidea,Mejora
+317,318,Persa,13,Enfermedad renal,Antibióticos,Deterioro
+318,319,Persa,3,Alergias,Antihistamínicos,Deterioro
+319,320,Bengalí,10,Infección urinaria,Insulina,Mejora
+320,321,Persa,8,Enfermedad renal,Antihistamínicos,Mejora
+321,322,Bengalí,13,Infección urinaria,Antihistamínicos,Mejora
+322,323,Persa,2,Infección urinaria,Terapia de fluidos,Mejora
+323,324,Bengalí,9,Infección urinaria,Antibióticos,Mejora
+324,325,Ragdoll,10,Infección urinaria,Antibióticos,Mejora
+325,326,Siamés,1,Infección urinaria,Insulina,Sin Cambio
+326,327,Persa,14,Alergias,Antihistamínicos,Mejora
+327,328,British Shorthair,15,Diabetes,Insulina,Deterioro
+328,329,Bengalí,3,Enfermedad renal,Insulina,Mejora
+329,330,Persa,10,Diabetes,Antibióticos,Deterioro
+330,331,Persa,8,Diabetes,Antibióticos,Sin Cambio
+331,332,Bengalí,6,Infección urinaria,Antihistamínicos,Sin Cambio
+332,333,Siamés,12,Infección urinaria,Antibióticos,Deterioro
+333,334,Siamés,11,Alergias,Antibióticos,Sin Cambio
+334,335,Siamés,3,Infección urinaria,Antihistamínicos,Sin Cambio
+335,336,Siamés,7,Infección urinaria,Antihistamínicos,Sin Cambio
+336,337,British Shorthair,7,Diabetes,Medicación tiroidea,Sin Cambio
+337,338,Ragdoll,14,Enfermedad renal,Terapia de fluidos,Deterioro
+338,339,Persa,13,Enfermedad renal,Medicación tiroidea,Mejora
+339,340,Siamés,15,Infección urinaria,Antibióticos,Mejora
+340,341,Bengalí,4,Infección urinaria,Insulina,Sin Cambio
+341,342,Bengalí,11,Diabetes,Medicación tiroidea,Mejora
+342,343,Persa,7,Enfermedad renal,Antihistamínicos,Mejora
+343,344,Ragdoll,11,Alergias,Medicación tiroidea,Sin Cambio
+344,345,Ragdoll,15,Diabetes,Medicación tiroidea,Sin Cambio
+345,346,Bengalí,13,Hipertiroidismo,Terapia de fluidos,Mejora
+346,347,British Shorthair,5,Alergias,Antibióticos,Mejora
+347,348,Ragdoll,4,Alergias,Terapia de fluidos,Sin Cambio
+348,349,Ragdoll,12,Alergias,Terapia de fluidos,Mejora
+349,350,Siamés,10,Alergias,Antihistamínicos,Mejora
+350,351,Siamés,12,Diabetes,Medicación tiroidea,Mejora
+351,352,British Shorthair,13,Diabetes,Medicación tiroidea,Sin Cambio
+352,353,British Shorthair,2,Infección urinaria,Medicación tiroidea,Mejora
+353,354,Siamés,7,Infección urinaria,Insulina,Sin Cambio
+354,355,Persa,10,Hipertiroidismo,Antibióticos,Mejora
+355,356,Bengalí,9,Diabetes,Terapia de fluidos,Mejora
+356,357,British Shorthair,1,Alergias,Antibióticos,Deterioro
+357,358,Ragdoll,1,Alergias,Terapia de fluidos,Deterioro
+358,359,British Shorthair,5,Hipertiroidismo,Insulina,Mejora
+359,360,Persa,11,Enfermedad renal,Terapia de fluidos,Sin Cambio
+360,361,British Shorthair,6,Hipertiroidismo,Antihistamínicos,Sin Cambio
+361,362,Ragdoll,11,Infección urinaria,Insulina,Mejora
+362,363,British Shorthair,15,Infección urinaria,Insulina,Deterioro
+363,364,Ragdoll,10,Infección urinaria,Insulina,Sin Cambio
+364,365,Persa,4,Infección urinaria,Antihistamínicos,Deterioro
+365,366,Bengalí,1,Alergias,Medicación tiroidea,Mejora
+366,367,Persa,2,Diabetes,Terapia de fluidos,Sin Cambio
+367,368,Ragdoll,13,Hipertiroidismo,Insulina,Mejora
+368,369,Bengalí,7,Infección urinaria,Antibióticos,Mejora
+369,370,Siamés,11,Alergias,Terapia de fluidos,Mejora
+370,371,Siamés,2,Hipertiroidismo,Antihistamínicos,Mejora
+371,372,British Shorthair,9,Infección urinaria,Terapia de fluidos,Mejora
+372,373,Ragdoll,7,Infección urinaria,Terapia de fluidos,Mejora
+373,374,Bengalí,13,Infección urinaria,Antihistamínicos,Sin Cambio
+374,375,Bengalí,3,Enfermedad renal,Antibióticos,Sin Cambio
+375,376,Bengalí,7,Infección urinaria,Terapia de fluidos,Sin Cambio
+376,377,Ragdoll,7,Infección urinaria,Insulina,Deterioro
+377,378,Bengalí,15,Enfermedad renal,Insulina,Mejora
+378,379,Ragdoll,4,Diabetes,Terapia de fluidos,Sin Cambio
+379,380,Persa,10,Alergias,Antibióticos,Mejora
+380,381,British Shorthair,11,Enfermedad renal,Terapia de fluidos,Deterioro
+381,382,British Shorthair,12,Hipertiroidismo,Insulina,Sin Cambio
+382,383,British Shorthair,6,Infección urinaria,Insulina,Mejora
+383,384,Bengalí,13,Infección urinaria,Antibióticos,Deterioro
+384,385,Ragdoll,4,Hipertiroidismo,Antihistamínicos,Mejora
+385,386,British Shorthair,7,Alergias,Antibióticos,Mejora
+386,387,Ragdoll,3,Infección urinaria,Antihistamínicos,Sin Cambio
+387,388,British Shorthair,12,Alergias,Antihistamínicos,Mejora
+388,389,Persa,9,Diabetes,Antibióticos,Sin Cambio
+389,390,British Shorthair,5,Hipertiroidismo,Medicación tiroidea,Sin Cambio
+390,391,British Shorthair,1,Infección urinaria,Terapia de fluidos,Mejora
+391,392,British Shorthair,5,Infección urinaria,Antihistamínicos,Mejora
+392,393,Bengalí,2,Enfermedad renal,Medicación tiroidea,Mejora
+393,394,Ragdoll,12,Alergias,Antibióticos,Mejora
+394,395,Siamés,4,Enfermedad renal,Insulina,Mejora
+395,396,Bengalí,12,Alergias,Medicación tiroidea,Mejora
+396,397,Ragdoll,8,Alergias,Antihistamínicos,Sin Cambio
+397,398,Siamés,14,Alergias,Antibióticos,Sin Cambio
+398,399,Siamés,9,Enfermedad renal,Antibióticos,Mejora
+399,400,Siamés,3,Infección urinaria,Medicación tiroidea,Deterioro
+400,401,Ragdoll,3,Alergias,Antihistamínicos,Mejora
+401,402,Bengalí,7,Hipertiroidismo,Terapia de fluidos,Mejora
+402,403,Persa,5,Infección urinaria,Insulina,Sin Cambio
+403,404,Ragdoll,3,Infección urinaria,Antibióticos,Mejora
+404,405,Siamés,7,Enfermedad renal,Medicación tiroidea,Deterioro
+405,406,Siamés,9,Alergias,Medicación tiroidea,Mejora
+406,407,Persa,13,Hipertiroidismo,Terapia de fluidos,Mejora
+407,408,Ragdoll,12,Diabetes,Terapia de fluidos,Deterioro
+408,409,Siamés,7,Enfermedad renal,Antibióticos,Sin Cambio
+409,410,Ragdoll,6,Enfermedad renal,Medicación tiroidea,Sin Cambio
+410,411,British Shorthair,7,Alergias,Antihistamínicos,Mejora
+411,412,Siamés,10,Enfermedad renal,Medicación tiroidea,Mejora
+412,413,Ragdoll,5,Infección urinaria,Antibióticos,Deterioro
+413,414,Persa,5,Infección urinaria,Antihistamínicos,Mejora
+414,415,Persa,10,Diabetes,Medicación tiroidea,Mejora
+415,416,British Shorthair,10,Enfermedad renal,Terapia de fluidos,Sin Cambio
+416,417,Siamés,11,Enfermedad renal,Antibióticos,Sin Cambio
+417,418,British Shorthair,12,Diabetes,Antibióticos,Deterioro
+418,419,Ragdoll,10,Hipertiroidismo,Terapia de fluidos,Mejora
+419,420,Siamés,11,Hipertiroidismo,Medicación tiroidea,Mejora
+420,421,Ragdoll,13,Diabetes,Terapia de fluidos,Mejora
+421,422,Persa,12,Enfermedad renal,Medicación tiroidea,Sin Cambio
+422,423,Persa,14,Infección urinaria,Antibióticos,Sin Cambio
+423,424,Persa,15,Hipertiroidismo,Medicación tiroidea,Deterioro
+424,425,Bengalí,3,Hipertiroidismo,Antihistamínicos,Sin Cambio
+425,426,British Shorthair,8,Alergias,Antibióticos,Mejora
+426,427,Siamés,9,Enfermedad renal,Antihistamínicos,Mejora
+427,428,Persa,14,Enfermedad renal,Antibióticos,Mejora
+428,429,Siamés,1,Alergias,Antihistamínicos,Mejora
+429,430,Ragdoll,15,Infección urinaria,Antibióticos,Mejora
+430,431,British Shorthair,9,Diabetes,Terapia de fluidos,Mejora
+431,432,Ragdoll,8,Alergias,Insulina,Mejora
+432,433,Persa,9,Enfermedad renal,Antihistamínicos,Mejora
+433,434,Persa,5,Hipertiroidismo,Terapia de fluidos,Mejora
+434,435,Persa,13,Alergias,Medicación tiroidea,Deterioro
+435,436,Ragdoll,15,Infección urinaria,Terapia de fluidos,Deterioro
+436,437,Persa,12,Infección urinaria,Insulina,Deterioro
+437,438,British Shorthair,3,Infección urinaria,Terapia de fluidos,Mejora
+438,439,Siamés,5,Hipertiroidismo,Insulina,Mejora
+439,440,Persa,13,Diabetes,Insulina,Mejora
+440,441,Bengalí,10,Hipertiroidismo,Terapia de fluidos,Deterioro
+441,442,Ragdoll,11,Infección urinaria,Insulina,Deterioro
+442,443,Persa,12,Diabetes,Antihistamínicos,Mejora
+443,444,Siamés,1,Diabetes,Terapia de fluidos,Mejora
+444,445,Ragdoll,3,Alergias,Insulina,Deterioro
+445,446,British Shorthair,6,Infección urinaria,Antibióticos,Sin Cambio
+446,447,Bengalí,13,Diabetes,Antibióticos,Mejora
+447,448,Persa,10,Diabetes,Antihistamínicos,Sin Cambio
+448,449,Bengalí,6,Alergias,Antibióticos,Mejora
+449,450,Ragdoll,7,Alergias,Insulina,Sin Cambio
+450,451,British Shorthair,10,Diabetes,Antibióticos,Mejora
+451,452,Ragdoll,14,Enfermedad renal,Antihistamínicos,Sin Cambio
+452,453,Bengalí,1,Diabetes,Terapia de fluidos,Mejora
+453,454,Bengalí,12,Diabetes,Antihistamínicos,Sin Cambio
+454,455,Siamés,13,Diabetes,Terapia de fluidos,Mejora
+455,456,Persa,5,Diabetes,Medicación tiroidea,Mejora
+456,457,Bengalí,5,Diabetes,Insulina,Deterioro
+457,458,Persa,13,Alergias,Insulina,Mejora
+458,459,Bengalí,6,Hipertiroidismo,Antibióticos,Mejora
+459,460,Persa,5,Diabetes,Antibióticos,Mejora
+460,461,Persa,1,Hipertiroidismo,Insulina,Mejora
+461,462,Ragdoll,11,Enfermedad renal,Terapia de fluidos,Sin Cambio
+462,463,Siamés,12,Diabetes,Medicación tiroidea,Sin Cambio
+463,464,Ragdoll,5,Infección urinaria,Insulina,Deterioro
+464,465,Siamés,11,Hipertiroidismo,Antibióticos,Deterioro
+465,466,British Shorthair,11,Hipertiroidismo,Medicación tiroidea,Sin Cambio
+466,467,Persa,1,Alergias,Terapia de fluidos,Sin Cambio
+467,468,British Shorthair,8,Alergias,Medicación tiroidea,Deterioro
+468,469,Siamés,14,Alergias,Terapia de fluidos,Sin Cambio
+469,470,Persa,3,Alergias,Terapia de fluidos,Mejora
+470,471,Bengalí,11,Infección urinaria,Antihistamínicos,Mejora
+471,472,Siamés,14,Infección urinaria,Medicación tiroidea,Mejora
+472,473,Ragdoll,10,Alergias,Insulina,Mejora
+473,474,Ragdoll,12,Enfermedad renal,Antihistamínicos,Mejora
+474,475,Bengalí,1,Hipertiroidismo,Terapia de fluidos,Sin Cambio
+475,476,Bengalí,3,Infección urinaria,Insulina,Sin Cambio
+476,477,Bengalí,6,Enfermedad renal,Terapia de fluidos,Mejora
+477,478,British Shorthair,9,Hipertiroidismo,Medicación tiroidea,Deterioro
+478,479,Ragdoll,15,Enfermedad renal,Antihistamínicos,Mejora
+479,480,Ragdoll,13,Diabetes,Antibióticos,Mejora
+480,481,Siamés,3,Alergias,Terapia de fluidos,Mejora
+481,482,Ragdoll,1,Hipertiroidismo,Antibióticos,Deterioro
+482,483,Ragdoll,9,Alergias,Antibióticos,Mejora
+483,484,Persa,11,Hipertiroidismo,Antihistamínicos,Sin Cambio
+484,485,British Shorthair,5,Hipertiroidismo,Medicación tiroidea,Deterioro
+485,486,Ragdoll,7,Infección urinaria,Antihistamínicos,Sin Cambio
+486,487,Ragdoll,8,Alergias,Terapia de fluidos,Mejora
+487,488,British Shorthair,4,Infección urinaria,Medicación tiroidea,Mejora
+488,489,Bengalí,8,Enfermedad renal,Insulina,Mejora
+489,490,Ragdoll,5,Infección urinaria,Antihistamínicos,Mejora
+490,491,British Shorthair,10,Alergias,Antihistamínicos,Sin Cambio
+491,492,Persa,7,Hipertiroidismo,Insulina,Mejora
+492,493,British Shorthair,11,Diabetes,Antihistamínicos,Mejora
+493,494,British Shorthair,5,Infección urinaria,Medicación tiroidea,Deterioro
+494,495,Bengalí,14,Infección urinaria,Antibióticos,Mejora
+495,496,Siamés,4,Diabetes,Insulina,Mejora
+496,497,Persa,4,Diabetes,Antihistamínicos,Mejora
+497,498,Siamés,12,Hipertiroidismo,Medicación tiroidea,Deterioro
+498,499,Siamés,6,Diabetes,Antibióticos,Deterioro
+499,500,Persa,14,Alergias,Terapia de fluidos,Sin Cambio
+500,501,Ragdoll,15,Diabetes,Terapia de fluidos,Sin Cambio
+501,502,Bengalí,5,Diabetes,Antibióticos,Deterioro
+502,503,Ragdoll,14,Hipertiroidismo,Insulina,Mejora
+503,504,Siamés,14,Alergias,Terapia de fluidos,Deterioro
+504,505,British Shorthair,8,Infección urinaria,Terapia de fluidos,Mejora
+505,506,Ragdoll,2,Enfermedad renal,Terapia de fluidos,Deterioro
+506,507,Ragdoll,7,Diabetes,Insulina,Sin Cambio
+507,508,British Shorthair,9,Alergias,Medicación tiroidea,Sin Cambio
+508,509,Siamés,8,Alergias,Medicación tiroidea,Mejora
+509,510,Persa,7,Alergias,Medicación tiroidea,Mejora
+510,511,Bengalí,14,Infección urinaria,Antihistamínicos,Deterioro
+511,512,Siamés,6,Infección urinaria,Antibióticos,Deterioro
+512,513,Bengalí,3,Diabetes,Antibióticos,Mejora
+513,514,Ragdoll,8,Hipertiroidismo,Insulina,Deterioro
+514,515,Siamés,15,Alergias,Terapia de fluidos,Mejora
+515,516,British Shorthair,11,Alergias,Terapia de fluidos,Deterioro
+516,517,Persa,7,Alergias,Terapia de fluidos,Sin Cambio
+517,518,Bengalí,5,Infección urinaria,Insulina,Deterioro
+518,519,British Shorthair,8,Diabetes,Insulina,Deterioro
+519,520,Persa,11,Alergias,Antibióticos,Mejora
+520,521,Siamés,12,Enfermedad renal,Antihistamínicos,Mejora
+521,522,Siamés,9,Enfermedad renal,Terapia de fluidos,Mejora
+522,523,Persa,13,Infección urinaria,Terapia de fluidos,Mejora
+523,524,Ragdoll,6,Hipertiroidismo,Insulina,Sin Cambio
+524,525,British Shorthair,3,Infección urinaria,Antihistamínicos,Sin Cambio
+525,526,Bengalí,7,Hipertiroidismo,Insulina,Deterioro
+526,527,Persa,1,Alergias,Medicación tiroidea,Deterioro
+527,528,Bengalí,11,Hipertiroidismo,Insulina,Mejora
+528,529,Siamés,2,Hipertiroidismo,Medicación tiroidea,Sin Cambio
+529,530,Persa,1,Hipertiroidismo,Antibióticos,Mejora
+530,531,British Shorthair,2,Hipertiroidismo,Antibióticos,Sin Cambio
+531,532,Bengalí,7,Diabetes,Medicación tiroidea,Deterioro
+532,533,Bengalí,1,Alergias,Terapia de fluidos,Sin Cambio
+533,534,British Shorthair,6,Diabetes,Medicación tiroidea,Deterioro
+534,535,Persa,14,Diabetes,Antihistamínicos,Sin Cambio
+535,536,Siamés,9,Hipertiroidismo,Medicación tiroidea,Mejora
+536,537,Ragdoll,4,Enfermedad renal,Antibióticos,Mejora
+537,538,Bengalí,13,Hipertiroidismo,Medicación tiroidea,Sin Cambio
+538,539,Ragdoll,15,Diabetes,Antibióticos,Deterioro
+539,540,Siamés,7,Alergias,Antibióticos,Deterioro
+540,541,Bengalí,5,Infección urinaria,Insulina,Mejora
+541,542,Siamés,9,Enfermedad renal,Antibióticos,Mejora
+542,543,Persa,2,Diabetes,Antibióticos,Deterioro
+543,544,British Shorthair,15,Infección urinaria,Insulina,Mejora
+544,545,Siamés,15,Diabetes,Medicación tiroidea,Deterioro
+545,546,Ragdoll,12,Diabetes,Insulina,Mejora
+546,547,Persa,1,Infección urinaria,Medicación tiroidea,Mejora
+547,548,Siamés,15,Alergias,Antihistamínicos,Mejora
+548,549,Ragdoll,12,Enfermedad renal,Antihistamínicos,Mejora
+549,550,Persa,3,Alergias,Insulina,Mejora
+550,551,Ragdoll,11,Hipertiroidismo,Antibióticos,Sin Cambio
+551,552,Persa,12,Diabetes,Antibióticos,Deterioro
+552,553,Persa,1,Enfermedad renal,Insulina,Deterioro
+553,554,Siamés,13,Infección urinaria,Antibióticos,Mejora
+554,555,Siamés,10,Enfermedad renal,Antibióticos,Mejora
+555,556,Bengalí,11,Alergias,Medicación tiroidea,Deterioro
+556,557,Bengalí,9,Infección urinaria,Terapia de fluidos,Sin Cambio
+557,558,Ragdoll,14,Enfermedad renal,Antihistamínicos,Deterioro
+558,559,Siamés,6,Infección urinaria,Insulina,Mejora
+559,560,Siamés,3,Alergias,Medicación tiroidea,Mejora
+560,561,Persa,13,Infección urinaria,Antibióticos,Sin Cambio
+561,562,Bengalí,11,Hipertiroidismo,Antihistamínicos,Sin Cambio
+562,563,Siamés,7,Enfermedad renal,Antibióticos,Sin Cambio
+563,564,Ragdoll,3,Hipertiroidismo,Insulina,Mejora
+564,565,Siamés,2,Hipertiroidismo,Medicación tiroidea,Mejora
+565,566,Ragdoll,11,Infección urinaria,Terapia de fluidos,Mejora
+566,567,Persa,14,Enfermedad renal,Antihistamínicos,Mejora
+567,568,Ragdoll,12,Enfermedad renal,Antihistamínicos,Mejora
+568,569,Persa,15,Enfermedad renal,Antihistamínicos,Sin Cambio
+569,570,Persa,7,Hipertiroidismo,Antibióticos,Mejora
+570,571,Persa,10,Infección urinaria,Medicación tiroidea,Deterioro
+571,572,Bengalí,11,Enfermedad renal,Insulina,Sin Cambio
+572,573,Siamés,1,Enfermedad renal,Insulina,Mejora
+573,574,Bengalí,1,Hipertiroidismo,Medicación tiroidea,Deterioro
+574,575,Bengalí,6,Diabetes,Terapia de fluidos,Sin Cambio
+575,576,British Shorthair,12,Enfermedad renal,Antihistamínicos,Sin Cambio
+576,577,Siamés,11,Infección urinaria,Medicación tiroidea,Deterioro
+577,578,Ragdoll,12,Infección urinaria,Terapia de fluidos,Mejora
+578,579,Siamés,13,Hipertiroidismo,Antihistamínicos,Mejora
+579,580,Ragdoll,9,Infección urinaria,Insulina,Sin Cambio
+580,581,Ragdoll,13,Infección urinaria,Insulina,Mejora
+581,582,Siamés,10,Alergias,Insulina,Mejora
+582,583,Siamés,10,Infección urinaria,Terapia de fluidos,Mejora
+583,584,Siamés,2,Hipertiroidismo,Insulina,Deterioro
+584,585,Siamés,1,Alergias,Insulina,Mejora
+585,586,Siamés,15,Enfermedad renal,Insulina,Mejora
+586,587,Persa,4,Alergias,Medicación tiroidea,Mejora
+587,588,Ragdoll,1,Hipertiroidismo,Antihistamínicos,Sin Cambio
+588,589,British Shorthair,12,Alergias,Terapia de fluidos,Sin Cambio
+589,590,Persa,6,Enfermedad renal,Antibióticos,Mejora
+590,591,Persa,3,Enfermedad renal,Antibióticos,Sin Cambio
+591,592,Ragdoll,4,Infección urinaria,Insulina,Deterioro
+592,593,Persa,14,Hipertiroidismo,Antihistamínicos,Mejora
+593,594,Persa,4,Infección urinaria,Terapia de fluidos,Deterioro
+594,595,Persa,15,Enfermedad renal,Insulina,Mejora
+595,596,British Shorthair,3,Infección urinaria,Insulina,Mejora
+596,597,Siamés,8,Enfermedad renal,Medicación tiroidea,Sin Cambio
+597,598,Siamés,15,Alergias,Medicación tiroidea,Mejora
+598,599,Ragdoll,10,Enfermedad renal,Medicación tiroidea,Mejora
+599,600,Persa,2,Alergias,Insulina,Mejora
+600,601,British Shorthair,9,Diabetes,Terapia de fluidos,Mejora
+601,602,British Shorthair,6,Hipertiroidismo,Antibióticos,Sin Cambio
+602,603,Ragdoll,6,Alergias,Insulina,Deterioro
+603,604,Ragdoll,1,Alergias,Antibióticos,Deterioro
+604,605,Bengalí,4,Hipertiroidismo,Antibióticos,Mejora
+605,606,Persa,7,Hipertiroidismo,Antibióticos,Deterioro
+606,607,Ragdoll,10,Diabetes,Antibióticos,Deterioro
+607,608,Bengalí,10,Hipertiroidismo,Antibióticos,Sin Cambio
+608,609,Ragdoll,9,Infección urinaria,Medicación tiroidea,Mejora
+609,610,Persa,15,Alergias,Medicación tiroidea,Mejora
+610,611,British Shorthair,6,Hipertiroidismo,Antibióticos,Sin Cambio
+611,612,Bengalí,2,Diabetes,Insulina,Deterioro
+612,613,Ragdoll,1,Diabetes,Antibióticos,Mejora
+613,614,Persa,11,Infección urinaria,Antihistamínicos,Mejora
+614,615,Ragdoll,14,Hipertiroidismo,Insulina,Mejora
+615,616,British Shorthair,9,Enfermedad renal,Antihistamínicos,Deterioro
+616,617,Siamés,5,Diabetes,Terapia de fluidos,Mejora
+617,618,Siamés,14,Diabetes,Antibióticos,Deterioro
+618,619,Ragdoll,9,Enfermedad renal,Antihistamínicos,Mejora
+619,620,Ragdoll,11,Hipertiroidismo,Antibióticos,Mejora
+620,621,Ragdoll,10,Infección urinaria,Medicación tiroidea,Deterioro
+621,622,Persa,6,Infección urinaria,Medicación tiroidea,Sin Cambio
+622,623,Persa,1,Alergias,Terapia de fluidos,Mejora
+623,624,Bengalí,3,Hipertiroidismo,Insulina,Sin Cambio
+624,625,Siamés,5,Alergias,Antihistamínicos,Sin Cambio
+625,626,Ragdoll,7,Infección urinaria,Antibióticos,Sin Cambio
+626,627,Siamés,1,Hipertiroidismo,Insulina,Mejora
+627,628,Ragdoll,12,Diabetes,Insulina,Deterioro
+628,629,British Shorthair,2,Hipertiroidismo,Insulina,Sin Cambio
+629,630,British Shorthair,13,Alergias,Terapia de fluidos,Deterioro
+630,631,British Shorthair,9,Hipertiroidismo,Medicación tiroidea,Mejora
+631,632,British Shorthair,14,Enfermedad renal,Antibióticos,Deterioro
+632,633,Persa,15,Diabetes,Insulina,Sin Cambio
+633,634,British Shorthair,8,Hipertiroidismo,Terapia de fluidos,Deterioro
+634,635,Persa,6,Hipertiroidismo,Antibióticos,Mejora
+635,636,British Shorthair,15,Infección urinaria,Medicación tiroidea,Sin Cambio
+636,637,Ragdoll,1,Enfermedad renal,Insulina,Sin Cambio
+637,638,Persa,5,Infección urinaria,Antihistamínicos,Mejora
+638,639,British Shorthair,6,Alergias,Medicación tiroidea,Sin Cambio
+639,640,Ragdoll,3,Alergias,Terapia de fluidos,Mejora
+640,641,Ragdoll,10,Alergias,Antihistamínicos,Mejora
+641,642,Siamés,11,Diabetes,Medicación tiroidea,Sin Cambio
+642,643,Persa,13,Diabetes,Antihistamínicos,Sin Cambio
+643,644,Bengalí,8,Diabetes,Antihistamínicos,Deterioro
+644,645,Persa,10,Diabetes,Medicación tiroidea,Mejora
+645,646,Siamés,5,Alergias,Terapia de fluidos,Mejora
+646,647,Persa,15,Enfermedad renal,Antibióticos,Mejora
+647,648,Bengalí,5,Alergias,Medicación tiroidea,Mejora
+648,649,Bengalí,4,Enfermedad renal,Terapia de fluidos,Mejora
+649,650,Ragdoll,4,Infección urinaria,Antibióticos,Sin Cambio
+650,651,Persa,1,Alergias,Medicación tiroidea,Mejora
+651,652,British Shorthair,12,Diabetes,Terapia de fluidos,Sin Cambio
+652,653,British Shorthair,8,Enfermedad renal,Terapia de fluidos,Sin Cambio
+653,654,British Shorthair,1,Enfermedad renal,Medicación tiroidea,Mejora
+654,655,Siamés,9,Infección urinaria,Antibióticos,Mejora
+655,656,Siamés,15,Hipertiroidismo,Antihistamínicos,Sin Cambio
+656,657,Persa,13,Diabetes,Insulina,Deterioro
+657,658,British Shorthair,9,Enfermedad renal,Antibióticos,Mejora
+658,659,Bengalí,7,Enfermedad renal,Antihistamínicos,Deterioro
+659,660,Ragdoll,12,Enfermedad renal,Terapia de fluidos,Sin Cambio
+660,661,Siamés,7,Infección urinaria,Antibióticos,Mejora
+661,662,Siamés,11,Alergias,Terapia de fluidos,Deterioro
+662,663,British Shorthair,10,Diabetes,Insulina,Sin Cambio
+663,664,Ragdoll,10,Hipertiroidismo,Antibióticos,Deterioro
+664,665,Bengalí,3,Diabetes,Terapia de fluidos,Sin Cambio
+665,666,British Shorthair,15,Enfermedad renal,Antihistamínicos,Mejora
+666,667,Persa,8,Enfermedad renal,Terapia de fluidos,Mejora
+667,668,Ragdoll,3,Alergias,Terapia de fluidos,Deterioro
+668,669,Persa,14,Alergias,Insulina,Sin Cambio
+669,670,British Shorthair,12,Alergias,Antibióticos,Sin Cambio
+670,671,Siamés,15,Alergias,Antihistamínicos,Mejora
+671,672,Persa,8,Alergias,Antibióticos,Mejora
+672,673,British Shorthair,10,Hipertiroidismo,Insulina,Deterioro
+673,674,British Shorthair,15,Enfermedad renal,Terapia de fluidos,Sin Cambio
+674,675,Siamés,6,Enfermedad renal,Medicación tiroidea,Mejora
+675,676,Siamés,8,Infección urinaria,Antihistamínicos,Mejora
+676,677,Bengalí,3,Alergias,Medicación tiroidea,Mejora
+677,678,British Shorthair,2,Alergias,Antihistamínicos,Mejora
+678,679,Bengalí,6,Hipertiroidismo,Antihistamínicos,Deterioro
+679,680,Ragdoll,8,Enfermedad renal,Medicación tiroidea,Mejora
+680,681,Siamés,8,Diabetes,Medicación tiroidea,Sin Cambio
+681,682,Bengalí,11,Alergias,Terapia de fluidos,Sin Cambio
+682,683,Bengalí,10,Infección urinaria,Antihistamínicos,Sin Cambio
+683,684,British Shorthair,14,Alergias,Antibióticos,Sin Cambio
+684,685,British Shorthair,14,Alergias,Antibióticos,Mejora
+685,686,British Shorthair,13,Enfermedad renal,Medicación tiroidea,Mejora
+686,687,Persa,12,Enfermedad renal,Insulina,Mejora
+687,688,Bengalí,14,Infección urinaria,Medicación tiroidea,Mejora
+688,689,British Shorthair,7,Diabetes,Antibióticos,Mejora
+689,690,British Shorthair,6,Infección urinaria,Antibióticos,Sin Cambio
+690,691,Siamés,10,Enfermedad renal,Antihistamínicos,Mejora
+691,692,British Shorthair,9,Alergias,Antibióticos,Sin Cambio
+692,693,Persa,9,Diabetes,Terapia de fluidos,Mejora
+693,694,Siamés,8,Hipertiroidismo,Terapia de fluidos,Sin Cambio
+694,695,Siamés,6,Enfermedad renal,Terapia de fluidos,Mejora
+695,696,Bengalí,7,Infección urinaria,Medicación tiroidea,Deterioro
+696,697,British Shorthair,14,Hipertiroidismo,Insulina,Mejora
+697,698,Bengalí,1,Infección urinaria,Insulina,Deterioro
+698,699,Persa,6,Enfermedad renal,Terapia de fluidos,Mejora
+699,700,Persa,2,Enfermedad renal,Antibióticos,Mejora
+700,701,British Shorthair,9,Diabetes,Medicación tiroidea,Sin Cambio
+701,702,Persa,9,Alergias,Antihistamínicos,Mejora
+702,703,Bengalí,1,Infección urinaria,Antibióticos,Mejora
+703,704,Persa,4,Diabetes,Insulina,Mejora
+704,705,British Shorthair,11,Diabetes,Antihistamínicos,Sin Cambio
+705,706,British Shorthair,12,Enfermedad renal,Antibióticos,Mejora
+706,707,British Shorthair,2,Diabetes,Medicación tiroidea,Sin Cambio
+707,708,Ragdoll,15,Enfermedad renal,Terapia de fluidos,Sin Cambio
+708,709,Siamés,7,Enfermedad renal,Antihistamínicos,Deterioro
+709,710,Ragdoll,6,Diabetes,Antibióticos,Deterioro
+710,711,British Shorthair,2,Enfermedad renal,Antihistamínicos,Sin Cambio
+711,712,Siamés,15,Hipertiroidismo,Terapia de fluidos,Mejora
+712,713,Bengalí,8,Diabetes,Terapia de fluidos,Sin Cambio
+713,714,Bengalí,1,Hipertiroidismo,Antibióticos,Mejora
+714,715,Bengalí,15,Diabetes,Terapia de fluidos,Deterioro
+715,716,Persa,13,Infección urinaria,Antihistamínicos,Mejora
+716,717,British Shorthair,1,Hipertiroidismo,Antihistamínicos,Mejora
+717,718,British Shorthair,9,Alergias,Medicación tiroidea,Mejora
+718,719,Ragdoll,4,Alergias,Insulina,Mejora
+719,720,British Shorthair,3,Infección urinaria,Insulina,Sin Cambio
+720,721,Siamés,8,Alergias,Terapia de fluidos,Mejora
+721,722,Persa,3,Alergias,Terapia de fluidos,Sin Cambio
+722,723,Siamés,6,Infección urinaria,Terapia de fluidos,Deterioro
+723,724,Ragdoll,5,Enfermedad renal,Medicación tiroidea,Mejora
+724,725,Ragdoll,12,Diabetes,Medicación tiroidea,Deterioro
+725,726,Bengalí,7,Hipertiroidismo,Antibióticos,Mejora
+726,727,Siamés,3,Hipertiroidismo,Antihistamínicos,Sin Cambio
+727,728,British Shorthair,6,Hipertiroidismo,Medicación tiroidea,Deterioro
+728,729,Siamés,13,Infección urinaria,Antihistamínicos,Mejora
+729,730,Siamés,15,Diabetes,Terapia de fluidos,Mejora
+730,731,British Shorthair,6,Infección urinaria,Medicación tiroidea,Mejora
+731,732,Siamés,13,Diabetes,Medicación tiroidea,Sin Cambio
+732,733,Persa,10,Infección urinaria,Antihistamínicos,Mejora
+733,734,Persa,7,Alergias,Insulina,Mejora
+734,735,Persa,8,Infección urinaria,Antibióticos,Deterioro
+735,736,Persa,3,Hipertiroidismo,Medicación tiroidea,Mejora
+736,737,Ragdoll,6,Hipertiroidismo,Antihistamínicos,Sin Cambio
+737,738,Bengalí,5,Alergias,Terapia de fluidos,Deterioro
+738,739,Bengalí,4,Infección urinaria,Medicación tiroidea,Sin Cambio
+739,740,Bengalí,1,Alergias,Terapia de fluidos,Mejora
+740,741,Bengalí,4,Diabetes,Medicación tiroidea,Sin Cambio
+741,742,British Shorthair,9,Hipertiroidismo,Antihistamínicos,Mejora
+742,743,Bengalí,8,Enfermedad renal,Insulina,Deterioro
+743,744,Bengalí,10,Enfermedad renal,Antibióticos,Mejora
+744,745,Siamés,8,Diabetes,Antihistamínicos,Mejora
+745,746,Ragdoll,15,Hipertiroidismo,Antibióticos,Deterioro
+746,747,Ragdoll,11,Enfermedad renal,Antibióticos,Mejora
+747,748,Ragdoll,1,Diabetes,Antihistamínicos,Sin Cambio
+748,749,Ragdoll,4,Infección urinaria,Antihistamínicos,Deterioro
+749,750,Siamés,10,Infección urinaria,Terapia de fluidos,Sin Cambio
+750,751,Ragdoll,14,Enfermedad renal,Medicación tiroidea,Sin Cambio
+751,752,Persa,12,Hipertiroidismo,Medicación tiroidea,Sin Cambio
+752,753,Persa,6,Enfermedad renal,Insulina,Mejora
+753,754,Bengalí,2,Diabetes,Antibióticos,Deterioro
+754,755,Siamés,6,Infección urinaria,Antihistamínicos,Sin Cambio
+755,756,Persa,1,Enfermedad renal,Antihistamínicos,Deterioro
+756,757,Bengalí,11,Alergias,Antihistamínicos,Mejora
+757,758,Persa,11,Diabetes,Terapia de fluidos,Sin Cambio
+758,759,Siamés,4,Alergias,Terapia de fluidos,Mejora
+759,760,Persa,5,Hipertiroidismo,Antibióticos,Mejora
+760,761,Ragdoll,5,Enfermedad renal,Insulina,Mejora
+761,762,Siamés,12,Infección urinaria,Medicación tiroidea,Mejora
+762,763,British Shorthair,12,Infección urinaria,Antibióticos,Mejora
+763,764,Ragdoll,10,Alergias,Medicación tiroidea,Mejora
+764,765,Siamés,10,Hipertiroidismo,Insulina,Mejora
+765,766,Ragdoll,1,Alergias,Terapia de fluidos,Mejora
+766,767,British Shorthair,11,Hipertiroidismo,Terapia de fluidos,Mejora
+767,768,Ragdoll,14,Diabetes,Medicación tiroidea,Mejora
+768,769,Bengalí,7,Infección urinaria,Terapia de fluidos,Mejora
+769,770,British Shorthair,5,Alergias,Medicación tiroidea,Mejora
+770,771,Persa,9,Infección urinaria,Medicación tiroidea,Mejora
+771,772,British Shorthair,13,Diabetes,Medicación tiroidea,Mejora
+772,773,Persa,15,Infección urinaria,Terapia de fluidos,Mejora
+773,774,Bengalí,6,Hipertiroidismo,Insulina,Mejora
+774,775,Persa,11,Infección urinaria,Antihistamínicos,Mejora
+775,776,Siamés,13,Alergias,Antihistamínicos,Sin Cambio
+776,777,Persa,13,Alergias,Terapia de fluidos,Sin Cambio
+777,778,Persa,9,Alergias,Medicación tiroidea,Mejora
+778,779,British Shorthair,11,Enfermedad renal,Medicación tiroidea,Deterioro
+779,780,Persa,12,Infección urinaria,Insulina,Sin Cambio
+780,781,Bengalí,10,Alergias,Terapia de fluidos,Mejora
+781,782,Ragdoll,5,Hipertiroidismo,Terapia de fluidos,Sin Cambio
+782,783,Siamés,11,Diabetes,Medicación tiroidea,Mejora
+783,784,British Shorthair,2,Alergias,Antihistamínicos,Sin Cambio
+784,785,Siamés,14,Infección urinaria,Antibióticos,Deterioro
+785,786,Bengalí,3,Alergias,Antibióticos,Mejora
+786,787,British Shorthair,7,Diabetes,Medicación tiroidea,Sin Cambio
+787,788,Siamés,5,Diabetes,Terapia de fluidos,Sin Cambio
+788,789,Persa,9,Hipertiroidismo,Insulina,Sin Cambio
+789,790,Bengalí,6,Diabetes,Antibióticos,Deterioro
+790,791,Siamés,14,Infección urinaria,Insulina,Mejora
+791,792,Bengalí,9,Enfermedad renal,Antihistamínicos,Mejora
+792,793,Ragdoll,7,Alergias,Antibióticos,Sin Cambio
+793,794,Persa,2,Enfermedad renal,Medicación tiroidea,Mejora
+794,795,Siamés,12,Diabetes,Insulina,Deterioro
+795,796,British Shorthair,1,Alergias,Medicación tiroidea,Mejora
+796,797,Siamés,15,Hipertiroidismo,Terapia de fluidos,Sin Cambio
+797,798,Persa,12,Infección urinaria,Antihistamínicos,Deterioro
+798,799,Bengalí,11,Hipertiroidismo,Antibióticos,Sin Cambio
+799,800,Siamés,6,Alergias,Insulina,Sin Cambio
+800,801,Ragdoll,4,Infección urinaria,Antihistamínicos,Deterioro
+801,802,Ragdoll,9,Alergias,Antibióticos,Mejora
+802,803,Persa,4,Infección urinaria,Antibióticos,Deterioro
+803,804,Bengalí,7,Diabetes,Medicación tiroidea,Sin Cambio
+804,805,British Shorthair,13,Enfermedad renal,Insulina,Deterioro
+805,806,Ragdoll,12,Alergias,Medicación tiroidea,Sin Cambio
+806,807,Persa,13,Diabetes,Insulina,Deterioro
+807,808,Persa,9,Diabetes,Terapia de fluidos,Deterioro
+808,809,Bengalí,1,Alergias,Terapia de fluidos,Deterioro
+809,810,Siamés,8,Diabetes,Medicación tiroidea,Deterioro
+810,811,Siamés,7,Infección urinaria,Antihistamínicos,Mejora
+811,812,Ragdoll,6,Hipertiroidismo,Antihistamínicos,Mejora
+812,813,Ragdoll,9,Infección urinaria,Antihistamínicos,Mejora
+813,814,Persa,10,Infección urinaria,Antihistamínicos,Mejora
+814,815,British Shorthair,2,Hipertiroidismo,Insulina,Mejora
+815,816,Siamés,1,Hipertiroidismo,Antihistamínicos,Deterioro
+816,817,Ragdoll,14,Hipertiroidismo,Antibióticos,Sin Cambio
+817,818,Persa,5,Alergias,Insulina,Sin Cambio
+818,819,Siamés,3,Enfermedad renal,Medicación tiroidea,Sin Cambio
+819,820,Bengalí,4,Enfermedad renal,Medicación tiroidea,Sin Cambio
+820,821,British Shorthair,12,Infección urinaria,Antibióticos,Sin Cambio
+821,822,Ragdoll,1,Diabetes,Antihistamínicos,Mejora
+822,823,Bengalí,15,Infección urinaria,Antihistamínicos,Mejora
+823,824,Ragdoll,13,Hipertiroidismo,Antihistamínicos,Mejora
+824,825,Bengalí,7,Alergias,Antibióticos,Mejora
+825,826,Bengalí,1,Alergias,Antihistamínicos,Sin Cambio
+826,827,Persa,14,Diabetes,Antibióticos,Deterioro
+827,828,Persa,10,Enfermedad renal,Antihistamínicos,Mejora
+828,829,Bengalí,12,Enfermedad renal,Terapia de fluidos,Mejora
+829,830,British Shorthair,1,Enfermedad renal,Terapia de fluidos,Sin Cambio
+830,831,Bengalí,2,Enfermedad renal,Terapia de fluidos,Deterioro
+831,832,British Shorthair,15,Infección urinaria,Medicación tiroidea,Mejora
+832,833,Siamés,12,Diabetes,Antihistamínicos,Mejora
+833,834,Siamés,12,Enfermedad renal,Terapia de fluidos,Mejora
+834,835,Ragdoll,11,Alergias,Terapia de fluidos,Sin Cambio
+835,836,Bengalí,9,Infección urinaria,Antibióticos,Mejora
+836,837,Ragdoll,2,Diabetes,Terapia de fluidos,Mejora
+837,838,Ragdoll,3,Alergias,Insulina,Sin Cambio
+838,839,Persa,4,Infección urinaria,Insulina,Deterioro
+839,840,Siamés,15,Alergias,Insulina,Deterioro
+840,841,Ragdoll,11,Alergias,Medicación tiroidea,Sin Cambio
+841,842,Persa,9,Infección urinaria,Terapia de fluidos,Mejora
+842,843,British Shorthair,2,Hipertiroidismo,Antibióticos,Sin Cambio
+843,844,Siamés,7,Infección urinaria,Antihistamínicos,Sin Cambio
+844,845,Ragdoll,12,Enfermedad renal,Insulina,Sin Cambio
+845,846,Ragdoll,6,Infección urinaria,Antibióticos,Sin Cambio
+846,847,British Shorthair,11,Infección urinaria,Medicación tiroidea,Mejora
+847,848,Siamés,11,Infección urinaria,Antibióticos,Mejora
+848,849,Bengalí,11,Diabetes,Medicación tiroidea,Mejora
+849,850,Persa,7,Infección urinaria,Terapia de fluidos,Deterioro
+850,851,Siamés,11,Infección urinaria,Insulina,Deterioro
+851,852,Bengalí,6,Infección urinaria,Antihistamínicos,Mejora
+852,853,Siamés,3,Diabetes,Insulina,Mejora
+853,854,Siamés,6,Diabetes,Medicación tiroidea,Sin Cambio
+854,855,Bengalí,6,Alergias,Terapia de fluidos,Mejora
+855,856,Bengalí,2,Alergias,Terapia de fluidos,Mejora
+856,857,British Shorthair,12,Alergias,Medicación tiroidea,Deterioro
+857,858,Ragdoll,1,Infección urinaria,Antihistamínicos,Deterioro
+858,859,Bengalí,2,Enfermedad renal,Medicación tiroidea,Mejora
+859,860,British Shorthair,2,Infección urinaria,Terapia de fluidos,Sin Cambio
+860,861,Siamés,14,Alergias,Terapia de fluidos,Sin Cambio
+861,862,Persa,15,Alergias,Medicación tiroidea,Mejora
+862,863,Siamés,13,Infección urinaria,Insulina,Sin Cambio
+863,864,Ragdoll,5,Alergias,Terapia de fluidos,Mejora
+864,865,British Shorthair,3,Enfermedad renal,Antihistamínicos,Sin Cambio
+865,866,Ragdoll,13,Infección urinaria,Insulina,Sin Cambio
+866,867,British Shorthair,9,Alergias,Antibióticos,Sin Cambio
+867,868,Persa,11,Hipertiroidismo,Antihistamínicos,Deterioro
+868,869,Siamés,6,Alergias,Insulina,Sin Cambio
+869,870,Siamés,9,Infección urinaria,Terapia de fluidos,Sin Cambio
+870,871,Siamés,11,Hipertiroidismo,Antibióticos,Sin Cambio
+871,872,Ragdoll,12,Diabetes,Terapia de fluidos,Mejora
+872,873,Persa,10,Hipertiroidismo,Antibióticos,Sin Cambio
+873,874,Persa,9,Infección urinaria,Antibióticos,Mejora
+874,875,Ragdoll,4,Hipertiroidismo,Antibióticos,Deterioro
+875,876,Siamés,5,Enfermedad renal,Medicación tiroidea,Mejora
+876,877,British Shorthair,13,Alergias,Antihistamínicos,Deterioro
+877,878,Bengalí,10,Enfermedad renal,Terapia de fluidos,Sin Cambio
+878,879,Persa,6,Diabetes,Medicación tiroidea,Sin Cambio
+879,880,Bengalí,15,Alergias,Antibióticos,Mejora
+880,881,British Shorthair,7,Infección urinaria,Insulina,Sin Cambio
+881,882,Ragdoll,13,Diabetes,Antibióticos,Deterioro
+882,883,Ragdoll,5,Alergias,Terapia de fluidos,Sin Cambio
+883,884,Siamés,12,Infección urinaria,Medicación tiroidea,Mejora
+884,885,Persa,6,Alergias,Terapia de fluidos,Mejora
+885,886,Siamés,5,Enfermedad renal,Terapia de fluidos,Mejora
+886,887,Persa,8,Enfermedad renal,Antibióticos,Mejora
+887,888,British Shorthair,7,Enfermedad renal,Terapia de fluidos,Mejora
+888,889,Siamés,12,Diabetes,Medicación tiroidea,Mejora
+889,890,Ragdoll,13,Hipertiroidismo,Insulina,Mejora
+890,891,Siamés,9,Infección urinaria,Insulina,Mejora
+891,892,Persa,2,Enfermedad renal,Antihistamínicos,Sin Cambio
+892,893,Persa,14,Infección urinaria,Terapia de fluidos,Deterioro
+893,894,British Shorthair,10,Enfermedad renal,Insulina,Mejora
+894,895,Persa,14,Enfermedad renal,Medicación tiroidea,Sin Cambio
+895,896,Bengalí,11,Enfermedad renal,Antibióticos,Mejora
+896,897,Ragdoll,14,Diabetes,Insulina,Sin Cambio
+897,898,Persa,10,Enfermedad renal,Antihistamínicos,Mejora
+898,899,British Shorthair,6,Hipertiroidismo,Antibióticos,Mejora
+899,900,Persa,14,Enfermedad renal,Medicación tiroidea,Mejora
+900,901,British Shorthair,10,Diabetes,Medicación tiroidea,Sin Cambio
+901,902,Ragdoll,15,Alergias,Insulina,Mejora
+902,903,Persa,15,Infección urinaria,Antibióticos,Mejora
+903,904,Ragdoll,2,Enfermedad renal,Antihistamínicos,Mejora
+904,905,Siamés,13,Infección urinaria,Medicación tiroidea,Deterioro
+905,906,British Shorthair,13,Alergias,Insulina,Sin Cambio
+906,907,Persa,7,Diabetes,Insulina,Sin Cambio
+907,908,Bengalí,14,Enfermedad renal,Antihistamínicos,Sin Cambio
+908,909,British Shorthair,4,Enfermedad renal,Medicación tiroidea,Mejora
+909,910,Ragdoll,8,Hipertiroidismo,Terapia de fluidos,Mejora
+910,911,British Shorthair,14,Alergias,Terapia de fluidos,Deterioro
+911,912,Persa,7,Enfermedad renal,Antibióticos,Mejora
+912,913,British Shorthair,4,Hipertiroidismo,Medicación tiroidea,Mejora
+913,914,Bengalí,2,Infección urinaria,Medicación tiroidea,Mejora
+914,915,Siamés,8,Hipertiroidismo,Terapia de fluidos,Mejora
+915,916,Persa,13,Hipertiroidismo,Antibióticos,Mejora
+916,917,Siamés,8,Infección urinaria,Terapia de fluidos,Sin Cambio
+917,918,Bengalí,6,Alergias,Insulina,Sin Cambio
+918,919,Persa,12,Diabetes,Antihistamínicos,Mejora
+919,920,Ragdoll,4,Infección urinaria,Insulina,Deterioro
+920,921,Siamés,13,Hipertiroidismo,Antihistamínicos,Mejora
+921,922,British Shorthair,10,Alergias,Antibióticos,Sin Cambio
+922,923,Ragdoll,2,Hipertiroidismo,Antibióticos,Mejora
+923,924,Bengalí,1,Infección urinaria,Insulina,Sin Cambio
+924,925,Persa,11,Hipertiroidismo,Insulina,Mejora
+925,926,British Shorthair,7,Diabetes,Antibióticos,Sin Cambio
+926,927,Ragdoll,2,Alergias,Insulina,Deterioro
+927,928,Siamés,8,Diabetes,Antihistamínicos,Mejora
+928,929,Ragdoll,2,Enfermedad renal,Terapia de fluidos,Deterioro
+929,930,Ragdoll,9,Enfermedad renal,Insulina,Mejora
+930,931,Ragdoll,9,Alergias,Terapia de fluidos,Sin Cambio
+931,932,British Shorthair,8,Alergias,Antibióticos,Sin Cambio
+932,933,Siamés,6,Hipertiroidismo,Insulina,Mejora
+933,934,Bengalí,2,Infección urinaria,Antihistamínicos,Sin Cambio
+934,935,Persa,3,Alergias,Medicación tiroidea,Mejora
+935,936,Siamés,8,Alergias,Medicación tiroidea,Mejora
+936,937,Siamés,9,Infección urinaria,Medicación tiroidea,Mejora
+937,938,Bengalí,14,Infección urinaria,Antihistamínicos,Sin Cambio
+938,939,Ragdoll,8,Infección urinaria,Insulina,Deterioro
+939,940,Bengalí,12,Alergias,Medicación tiroidea,Mejora
+940,941,Bengalí,12,Diabetes,Insulina,Deterioro
+941,942,Ragdoll,12,Diabetes,Antibióticos,Mejora
+942,943,Siamés,3,Infección urinaria,Antihistamínicos,Sin Cambio
+943,944,Persa,15,Infección urinaria,Antihistamínicos,Mejora
+944,945,Siamés,12,Enfermedad renal,Medicación tiroidea,Mejora
+945,946,Bengalí,4,Enfermedad renal,Antibióticos,Deterioro
+946,947,Bengalí,6,Hipertiroidismo,Antihistamínicos,Mejora
+947,948,Ragdoll,10,Alergias,Antihistamínicos,Mejora
+948,949,Bengalí,12,Hipertiroidismo,Antihistamínicos,Mejora
+949,950,Siamés,11,Diabetes,Insulina,Deterioro
+950,951,British Shorthair,6,Diabetes,Antihistamínicos,Sin Cambio
+951,952,British Shorthair,8,Infección urinaria,Antibióticos,Mejora
+952,953,Persa,6,Enfermedad renal,Medicación tiroidea,Mejora
+953,954,Bengalí,1,Hipertiroidismo,Medicación tiroidea,Deterioro
+954,955,Persa,13,Hipertiroidismo,Terapia de fluidos,Mejora
+955,956,British Shorthair,9,Diabetes,Antibióticos,Sin Cambio
+956,957,British Shorthair,6,Enfermedad renal,Medicación tiroidea,Mejora
+957,958,Siamés,10,Alergias,Antihistamínicos,Sin Cambio
+958,959,British Shorthair,15,Hipertiroidismo,Antibióticos,Sin Cambio
+959,960,Siamés,9,Enfermedad renal,Insulina,Sin Cambio
+960,961,Ragdoll,12,Enfermedad renal,Antibióticos,Mejora
+961,962,Persa,8,Enfermedad renal,Terapia de fluidos,Sin Cambio
+962,963,Ragdoll,15,Alergias,Terapia de fluidos,Deterioro
+963,964,Siamés,15,Diabetes,Antibióticos,Deterioro
+964,965,Bengalí,13,Alergias,Terapia de fluidos,Sin Cambio
+965,966,Bengalí,11,Hipertiroidismo,Insulina,Deterioro
+966,967,Siamés,13,Alergias,Insulina,Sin Cambio
+967,968,Bengalí,2,Enfermedad renal,Insulina,Mejora
+968,969,Bengalí,9,Diabetes,Antibióticos,Mejora
+969,970,Persa,9,Diabetes,Terapia de fluidos,Mejora
+970,971,Bengalí,10,Alergias,Terapia de fluidos,Sin Cambio
+971,972,Persa,15,Diabetes,Antihistamínicos,Mejora
+972,973,Bengalí,4,Alergias,Insulina,Mejora
+973,974,Siamés,9,Hipertiroidismo,Medicación tiroidea,Mejora
+974,975,Siamés,6,Infección urinaria,Antibióticos,Mejora
+975,976,Siamés,14,Diabetes,Insulina,Mejora
+976,977,Ragdoll,4,Infección urinaria,Medicación tiroidea,Deterioro
+977,978,Ragdoll,14,Alergias,Antihistamínicos,Deterioro
+978,979,Siamés,7,Alergias,Medicación tiroidea,Mejora
+979,980,Siamés,12,Hipertiroidismo,Antihistamínicos,Mejora
+980,981,Bengalí,11,Enfermedad renal,Terapia de fluidos,Sin Cambio
+981,982,Persa,7,Enfermedad renal,Antibióticos,Mejora
+982,983,Siamés,6,Hipertiroidismo,Insulina,Deterioro
+983,984,Siamés,9,Enfermedad renal,Insulina,Mejora
+984,985,Persa,7,Infección urinaria,Terapia de fluidos,Mejora
+985,986,Persa,10,Diabetes,Antibióticos,Sin Cambio
+986,987,Siamés,2,Infección urinaria,Medicación tiroidea,Mejora
+987,988,Persa,4,Hipertiroidismo,Insulina,Mejora
+988,989,Siamés,8,Diabetes,Terapia de fluidos,Mejora
+989,990,Persa,12,Alergias,Antibióticos,Mejora
+990,991,Persa,9,Enfermedad renal,Insulina,Mejora
+991,992,British Shorthair,15,Enfermedad renal,Terapia de fluidos,Deterioro
+992,993,British Shorthair,11,Diabetes,Terapia de fluidos,Mejora
+993,994,Persa,6,Alergias,Antibióticos,Sin Cambio
+994,995,Ragdoll,1,Enfermedad renal,Terapia de fluidos,Sin Cambio
+995,996,Siamés,2,Enfermedad renal,Antihistamínicos,Sin Cambio
+996,997,Persa,4,Hipertiroidismo,Antibióticos,Sin Cambio
+997,998,British Shorthair,13,Hipertiroidismo,Insulina,Mejora
+998,999,Siamés,11,Diabetes,Antibióticos,Mejora
+999,1000,Persa,13,Hipertiroidismo,Antihistamínicos,Deterioro
